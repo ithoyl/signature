@@ -16,12 +16,14 @@ body {
   background-color: #18222d;
 }
 
-h1 {
+.hoyl {
   color: white;
   font-family: "Lucida Console", "Courier New", monospace;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 200px;
-  position: relative;
+  border: 3px solid green; 
 }
 
 .grid {
