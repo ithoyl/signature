@@ -122,3 +122,15 @@ body {
     10px 10px rgba(255, 0, 0, 0.3), 15px 15px rgba(255, 0, 0, 0.2),
     20px 20px rgba(255, 0, 0, 0.1), 25px 25px rgba(255, 0, 0, 0.05);
 }
+
+.tile-link:hover .tile-img6 {
+  box-shadow: 5px 5px rgba(255, 0, 0, 0.4),
+    10px 10px rgba(255, 0, 0, 0.3), 15px 15px rgba(255, 0, 0, 0.2),
+    20px 20px rgba(255, 0, 0, 0.1), 25px 25px rgba(255, 0, 0, 0.05);
+}
+
+.tile-link:hover .tile-img7 {
+  box-shadow: 5px 5px rgba(255, 0, 0, 0.4),
+    10px 10px rgba(255, 0, 0, 0.3), 15px 15px rgba(255, 0, 0, 0.2),
+    20px 20px rgba(255, 0, 0, 0.1), 25px 25px rgba(255, 0, 0, 0.05);
+}
